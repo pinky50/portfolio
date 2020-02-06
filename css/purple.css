@@ -1,0 +1,97 @@
+.section-heading h2 {
+    background: #B33771;
+}
+
+.nav-dot i {
+    color: #B33771;
+}
+
+.nav-label {
+    border: 2px solid #B33771;
+}
+
+.clr-content {
+    color: #B33771;
+}
+
+.service-icon .ti-desktop, .service-icon .ti-ink-pen, .service-icon .ti-mobile, .service-icon .ti-shopping-cart, .service-icon .ti-settings {
+    color: #B33771;
+}
+
+.animated-button {
+    border: 2px solid #B33771;
+}
+
+.animated-button:hover {
+    background: #B33771;
+}
+.about-box h4 {
+    color: #B33771;
+}
+.progress .progress-bar {
+    background: #B33771;
+}
+
+.single-service:before {
+    background-color: #B33771;
+}
+.service-icon .ti-desktop,
+.service-icon .ti-ink-pen,
+.service-icon .ti-mobile,
+.service-icon .ti-shopping-cart,
+.service-icon .ti-settings {
+    color: #B33771;
+}
+
+#testimonial .owl-carousel .client-information img {
+    border: 3px solid #B33771;
+}
+
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #B33771;
+}
+
+.owl-theme .owl-dots .owl-dot.active span {
+    background: #B33771;
+}
+
+#portfolio .button.is-checked {
+    color: #B33771;
+}
+
+.blog-content .news-title a:hover {
+    color: #B33771;
+}
+.blog-content .author .text b a:hover {
+    color: #B33771;
+}
+
+.resume-items .resume-item:before {
+    background: #B33771;
+}
+
+.resume-items .resume-item .date {
+    color: #B33771;
+    border: 1px solid #B33771;
+}
+
+.resume-items .resume-item .date:before {
+    background: #B33771;
+}
+
+.contact-form .form-control:hover,
+.contact-form .form-control:focus {
+    border-bottom: 1px solid #B33771;
+}
+
+.contact-info {
+    background: #B33771;
+}
+
+.social-icons a:hover {
+    color: #B33771;
+}
+
+.footer-bottom-content a {
+    color: #B33771;
+}

@@ -1,0 +1,97 @@
+.section-heading h2 {
+    background: #fd79a8;
+}
+
+.nav-dot i {
+    color: #fd79a8;
+}
+
+.nav-label {
+    border: 2px solid #fd79a8;
+}
+
+.clr-content {
+    color: #fd79a8;
+}
+
+.service-icon .ti-desktop, .service-icon .ti-ink-pen, .service-icon .ti-mobile, .service-icon .ti-shopping-cart, .service-icon .ti-settings {
+    color: #fd79a8;
+}
+
+.animated-button {
+    border: 2px solid #fd79a8;
+}
+
+.animated-button:hover {
+    background: #fd79a8;
+}
+.about-box h4 {
+    color: #fd79a8;
+}
+.progress .progress-bar {
+    background: #fd79a8;
+}
+
+.single-service:before {
+    background-color: #fd79a8;
+}
+.service-icon .ti-desktop,
+.service-icon .ti-ink-pen,
+.service-icon .ti-mobile,
+.service-icon .ti-shopping-cart,
+.service-icon .ti-settings {
+    color: #fd79a8;
+}
+
+#testimonial .owl-carousel .client-information img {
+    border: 3px solid #fd79a8;
+}
+
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #fd79a8;
+}
+
+.owl-theme .owl-dots .owl-dot.active span {
+    background: #fd79a8;
+}
+
+#portfolio .button.is-checked {
+    color: #fd79a8;
+}
+
+.blog-content .news-title a:hover {
+    color: #fd79a8;
+}
+.blog-content .author .text b a:hover {
+    color: #fd79a8;
+}
+
+.resume-items .resume-item:before {
+    background: #fd79a8;
+}
+
+.resume-items .resume-item .date {
+    color: #fd79a8;
+    border: 1px solid #fd79a8;
+}
+
+.resume-items .resume-item .date:before {
+    background: #fd79a8;
+}
+
+.contact-form .form-control:hover,
+.contact-form .form-control:focus {
+    border-bottom: 1px solid #fd79a8;
+}
+
+.contact-info {
+    background: #fd79a8;
+}
+
+.social-icons a:hover {
+    color: #fd79a8;
+}
+
+.footer-bottom-content a {
+    color: #fd79a8;
+}
