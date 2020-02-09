@@ -203,7 +203,7 @@ h1, h2, h3, h4, h5, h6, ul, li, a, p {
 
 /*Banner start here*/
 .banner-image {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../img/banner1.jpg");
+    background:  url("../img/banner1.jpg");
     height: 100vh;
     width: 100vw;
     background-size: cover;
@@ -269,6 +269,9 @@ h1, h2, h3, h4, h5, h6, ul, li, a, p {
     background: #ff714a;
     color: #fff;
     text-decoration: none;
+}
+.animated-button:focus {
+   outline: none;
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
@@ -532,113 +535,14 @@ h1, h2, h3, h4, h5, h6, ul, li, a, p {
 /*Hire me end here*/
 
 /*Portfolio start here*/
-#portfolio .button {
-    display: inline-block;
-    background: none;
-    border: none;
-    font-size: 12px;
-    cursor: pointer;
-    position: relative;
-    color: #000;
-    font-weight: 600;
-}
 
-#portfolio .button:focus {
-    outline: none;
-}
-
-#portfolio .button.is-checked {
-    color: #ff714a;
-}
-
-#portfolio .button-group .button {
-    margin-right: 20px;
-    font-size: 14px;
-}
-
-.element-item {
-    position: relative;
-    border: 10px solid #fff;
-    color: #262524;
-    overflow: hidden;
-    padding-left: 0;
-    padding-right: 0;
-}
-
-.element-item img {
-    transition: all .3s ease-in;
-    height: 235px;
-    width: 100%;
-}
-
-.element-item:hover img {
-    transform: scale(1.1);
-    -moz-transform: scale(1.1);
-    -webkit-transform: scale(1.1);
-    transition: all .5s ease-in;
-    overflow: hidden;
-}
-
-.element-item .portfolio-overlay {
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    top: 0;
-    position: absolute;
-    opacity: 0;
-    outline: 1px solid #fff;
-    outline-offset: -15px;
-}
-
-.portfolio-text {
-    display: block;
-    padding: 0 30px;
-    box-sizing: border-box;
-    position: absolute;
-    left: 0;
-    width: 100%;
-    text-align: center;
-    text-transform: capitalize;
-    font-size: 18px;
-    font-weight: 300;
-    top: 60%;
-    color: #fff;
-    /*opacity: 0;*/
-    filter: alpha(opacity=0);
-    transform: translateY(-20px);
-    transition: all .3s;
-    text-decoration: none;
-}
-
-.element-item:hover .portfolio-text {
-    transform: translateY(0px);
-    opacity: 1;
-}
-
-.element-item:hover .portfolio-overlay {
-    opacity: 1;
-}
-
-.overlay-content {
-    color: white;
-    font-size: 18px;
-    position: absolute;
-    border: 1px solid #eee;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    text-align: center;
-    text-transform: capitalize;
-    padding: 10px;
-}
-
-.overlay-content:hover {
-    color: white;
-    text-decoration: none;
-}
 /*Portfolio end here*/
-
+.single-project{
+    margin-bottom: 30px;
+}
+#text{
+display:none;
+}
 
 /*Contact start here*/
 .contact-form {
