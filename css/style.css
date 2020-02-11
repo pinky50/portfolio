@@ -540,6 +540,20 @@ h1, h2, h3, h4, h5, h6, ul, li, a, p {
 .single-project{
     margin-bottom: 30px;
 }
+.single-project:hover{
+    box-shadow: 2px 1px 10px grey;
+    transition: .5s;
+}
+.project-img img{
+    padding: 20px 0 15px 0;
+    height: 200px;
+}
+.project-title{
+    text-align:center;l
+    font-weight:bold;
+    font-size: 18px;
+    padding-bottom:15px;
+}
 #text{
 display:none;
 }
