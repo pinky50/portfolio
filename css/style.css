@@ -450,76 +450,6 @@ h1, h2, h3, h4, h5, h6, ul, li, a, p {
 
 /*Services end here*/
 
-/*Testimonial start here*/
-#testimonial {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/clients.jpg");
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    padding-top: 100px;
-    /*padding-bottom: 100px;*/
-}
-
-#testimonial .owl-carousel .client-information {
-    padding: 30px 0;
-    border-radius: 1px 50px 1px 50px;
-    margin-bottom: 30px;
-}
-
-#testimonial .owl-carousel .client-information img {
-    width: 100px !important;
-    height: 100px;
-    border-radius: 60%;
-    text-align: center;
-    display: inline-block !important;
-    border: 3px solid #ff714a;
-    padding: 5px;
-}
-
-#testimonial .owl-carousel .client-information p {
-    font-size: 16px;
-    color: #fff;
-    max-width: 800px;
-    margin: 0 auto;
-    margin-top: 10px;
-    font-weight: 300;
-}
-
-#testimonial .owl-carousel .client-information h4 {
-    position: relative;
-    color: #fff;
-    text-transform: capitalize;
-}
-
-#testimonial .owl-carousel .client-information h6 {
-    color: #fff;
-}
-
-.owl-theme .owl-dots .owl-dot span {
-    width: 15px;
-    height: 6px;
-    background: #fff;
-}
-
-.owl-theme .owl-dots .owl-dot span:focus {
-    outline: none;
-    box-shadow: none;
-}
-
-.owl-theme .owl-dots .owl-dot:hover span {
-    background: #ff714a;
-}
-
-.owl-theme .owl-dots .owl-dot.active span {
-    background: #ff714a;
-}
-
-.owl-theme .owl-dots .owl-dot {
-    outline: none;
-}
-
-/*Testimonial end here*/
 
 /*Hire me start here*/
 #hire-me {
@@ -535,8 +465,6 @@ h1, h2, h3, h4, h5, h6, ul, li, a, p {
 /*Hire me end here*/
 
 /*Portfolio start here*/
-
-/*Portfolio end here*/
 .single-project{
     margin-bottom: 30px;
 }
@@ -557,6 +485,7 @@ h1, h2, h3, h4, h5, h6, ul, li, a, p {
 #text{
 display:none;
 }
+/*Portfolio end here*/
 
 /*Contact start here*/
 .contact-form {
